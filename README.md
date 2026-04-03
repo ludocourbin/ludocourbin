@@ -8,6 +8,7 @@ I build mobile apps with **React Native / Expo** and work professionally with **
 
 - **[Gusto](https://github.com/ludocourbin/gusto)** — AI-powered recipe discovery app. Tinder-style swipe UX for meals. Expo + GPT-4.
 - **[Questify](https://github.com/ludocourbin/questify)** — Gamified productivity app. Turn real life into quests, earn XP, level up.
+- **[SweatSpots](https://github.com/ludocourbin/landing-sweatspots)** — Find the best workout spots near you.
 - **[WildSkill](https://github.com/ludocourbin/wildskill)** — Survival skills learning app built with Expo.
 - **[Tandem Cash](https://github.com/ludocourbin/tandem-cash)** — Couple & personal finance tracker. Replace Excel with something that actually works.
 
