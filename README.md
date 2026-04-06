@@ -33,7 +33,7 @@ Infra        GCP · Vercel · Fly.io
 
 Bartender in Barcelona. Decided to learn to code. Finished a full-stack bootcamp at [O'Clock](https://oclock.io) in 2020. Got hired at KOJI. Now 4+ years in, working on a renovation platform at [Hemea](https://www.hemea.com) — React and TypeScript on the front, Scala and PostgreSQL on the back.
 
-I speak French, English, Portuguese, and Spanish. I box, I do CrossFit, and I ship things.
+I speak French, English, Portuguese, and Spanish. I do StreetWorkout, and I ship things.
 
 ---
 
