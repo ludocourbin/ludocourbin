@@ -27,5 +27,4 @@ Infra        GCP · Vercel
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ludoviccourbin"><img src="https://img.shields.io/badge/LinkedIn-ludoviccourbin-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"></a>&nbsp;
-  <a href="https://apps.apple.com/developer/ludovic-courbin/id1700434029"><img src="https://img.shields.io/badge/App_Store-All_My_Apps-0D96F6?style=flat&logo=app-store&logoColor=white" alt="App Store"></a>&nbsp;
 </p>
